@@ -1,0 +1,5 @@
+Django
+.DS_Store
+*.json
+*.sqlite3
+*.pyc
